@@ -1,6 +1,6 @@
 # Proposed Topics
 
-
+![Topics_explain](https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/Topics_explain.png)
 
 # A proposed Journal club for postbacc in 2022
 - This is a proposed prototype for Journal club in 2022 Fall

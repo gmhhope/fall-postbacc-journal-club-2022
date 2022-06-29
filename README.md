@@ -20,4 +20,6 @@ Github provides excellent way to share html format of created mind maps (using i
   - for example, https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_1/Reflection-sheet-explained/index.html
 
 ## github issue
-- Github issue provides an excellent platform for students to generate question and seek discussions. JC leader will keep track with those questions along with the 
+- Github issue provides an excellent platform for students to generate question and seek discussions. JC leader will keep track with those questions along with the reflection sheet.
+- Once the questions are posted. JC leaders and postbacc trainees can reply to the questions. If the questions are solved, then the issue can be closed.
+- This will be a very nice format to go through the Q&A session before the class. And during the class, instead of looking through individual word document, the Q&A session will also have a solid ground to run on by tracing back to the issues..

@@ -18,6 +18,7 @@ Github provides excellent way to share html format of created mind maps (using i
 - How to access the github page?
   - `https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/` + `folder_path_under_mindmap`
   - for example, https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_1/Reflection-sheet-explained/index.html
+- The mind map has clickable link towards publication website and expandable notes, which further help students navigate the topics.
 
 ## github issue
 - Github issue provides an excellent platform for students to generate question and seek discussions. JC leader will keep track with those questions along with the reflection sheet.

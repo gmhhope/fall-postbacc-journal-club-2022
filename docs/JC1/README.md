@@ -8,5 +8,6 @@
 4.	Liu, C. et al. Time-resolved systems immunology reveals a late juncture linked to fatal COVID-19. Cell 184, 1836-1857.e22 (2021).
 
 ### Mindmap
+- [Potental topics](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_topics/Topics%20explain/index.html)
 - [Reflection sheet explained](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_1/Reflection-sheet-explained/index.html)
 

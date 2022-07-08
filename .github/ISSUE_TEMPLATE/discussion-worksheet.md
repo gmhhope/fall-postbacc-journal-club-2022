@@ -66,7 +66,7 @@ assignees: gmhhope
 
 
 -----------------------
-### I hereby confirm that I have:
+**I hereby confirm that I have:**
 - [ ] I am still working on the worksheet
 - [ ] I have finished the worksheet
 - [ ] I have gone through the papers

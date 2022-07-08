@@ -13,7 +13,7 @@ assignees: gmhhope
 
 ***Create** your worksheet for this journal club **ASAP** and **complete** it **at least the Wednesday before Thursday’s meeting**. This exercise will facilitate your reading and analysis of the journal articles, and your discussion leaders and peers can provide feedbacks immediately after you post your comments in the worksheet*
 
-*Rules: 
+*Rules:*
 - *Don't change the highest-level title, but you can remove any italic contents as you wish in the issue. Add your own subtitles if you want.*
 - *Feel free to add quotations using `>`, use`[]()` for links and just drop the images in the window to link figures.*
   -  > COVID-19 Vaccine & Therapeutics Tracker

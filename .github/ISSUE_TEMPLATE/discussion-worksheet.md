@@ -16,7 +16,6 @@ assignees: gmhhope
 ----------------------
 ## Main Research Question?
 *In your own words, provide a brief description of the main research question being pursued in this paper.*
-- [ ] label when you finish
 
 
 
@@ -27,7 +26,6 @@ assignees: gmhhope
 ----------------------
 ## Methods & Data
 *Consider the methods used and the data presented. Do the data support the hypothesis/research question? Explain why or why not. Were there any unexpected results?*
-- [ ] label when you finish
 
 
 
@@ -38,8 +36,6 @@ assignees: gmhhope
 ----------------------
 ## Authors' interpretation
 *Do you agree with the authors’ interpretation of the data? Why or why not?*
-- [ ] label when you finish
-
 
 
 
@@ -47,7 +43,6 @@ assignees: gmhhope
 ----------------------
 ## Enhancement or next experiment?
 *What do you think the authors should do next?*
-- [ ] label when you finish
 
 
 
@@ -57,8 +52,6 @@ assignees: gmhhope
 ----------------------
 ## confusion? Terms you don't understand?
 *What are your areas of confusion as you analyze this paper?  Are there terms that you don’t understand? What questions do you have about the research aim, methods, or data?*
-- [ ] label when you finish
-
 
 
 
@@ -69,7 +62,6 @@ assignees: gmhhope
 ----------------------
 ## Have your own opinions or critiques
 ***Pretend you are a reviewer** and come up with one critique of the paper (e.g., something the authors could have done better, or an experiment that would strengthen the paper).*
-- [ ] label when you finish
 
 
 

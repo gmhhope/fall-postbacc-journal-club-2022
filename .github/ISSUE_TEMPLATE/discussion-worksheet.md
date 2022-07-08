@@ -1,6 +1,7 @@
 ---
 name: Discussion Worksheet
-about: 'This worksheet is intended to guide preparations for your discussions in the Journal club. '
+about: 'This worksheet is intended to guide preparations for your discussions in the
+  Journal club. '
 title: 'DS-JC#-Name '
 labels: Discussion sheet
 assignees: gmhhope
@@ -11,6 +12,20 @@ assignees: gmhhope
 *Journal Club is intended to be an informal learning space through which you can increase your understanding of peer-reviewed publications, learn about research design, practice talking about science, and discover new research areas. This worksheet is intended to guide preparations for your discussions.*
 
 ***Create** your worksheet for this journal club **ASAP** and **complete** it **at least the Wednesday before Thursday’s meeting**. This exercise will facilitate your reading and analysis of the journal articles, and your discussion leaders and peers can provide feedbacks immediately after you post your comments in the worksheet*
+
+*Rules: 
+- *Don't change the highest-level title, but you can remove any italic contents as you wish in the issue. Add your own subtitles if you want.*
+- *Feel free to add quotations using `>`, use`[]()` for links and just drop the images in the window to link figures.*
+  -  > COVID-19 Vaccine & Therapeutics Tracker
+  - [COVID-19 Vaccine & Therapeutics Tracker](https://biorender.com/covid-vaccine-tracker)
+  - ![example_figure](https://d33wubrfki0l68.cloudfront.net/a92d88aa076af6f1aa5caff85cc51e5bc8f10709/f63e5/img/covid/vaccine.png)
+
+
+*Still confused?*
+- *Go look at this [mindmap](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_1/Reflection-sheet-explained/index.html) to grab some ideas*
+- *Here is an example discussion sheet #4*
+- *Check this out: [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)*
+
 
 
 ----------------------
@@ -70,7 +85,4 @@ assignees: gmhhope
 - [ ] I am still working on the worksheet
 - [ ] I have finished the worksheet
 - [ ] I have gone through the papers
-- [ ] Check your peer if they have similar ideas. If it is, plz add their issue number to your comments. 
-
-
-
+- [ ] Check your peer if they have similar ideas. If it is, plz add their issue number to your comments.

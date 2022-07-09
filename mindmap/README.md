@@ -4,6 +4,4 @@
 
 ## How to view the mindmap in Github?
 - `https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/` + `folder_path_under_mindmap`
-
-## Access the page
-- https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_1/Reflection-sheet-explained/index.html
+- For example: https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_1/Reflection-sheet-explained/index.html

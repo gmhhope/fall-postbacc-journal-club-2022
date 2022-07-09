@@ -5,4 +5,4 @@
 
 ## Run through Github issue
 - How to organize your discussion worksheet via Github (TO-DO)
-- Want to see an example #4
+- Want to see an example [#4](https://github.com/gmhhope/fall-postbacc-journal-club-2022/issues/4)

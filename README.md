@@ -9,4 +9,5 @@
   - Papers
 
 ## Proposed Topics
+- The [link](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_topics/Topics%20explain/index.html)
 ![Topics_explain](https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/Topics_explain.png)

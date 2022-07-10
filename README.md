@@ -9,13 +9,13 @@
 
 ------------------------
 ## How we run the Journal club
-- [Mindmap](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_mechanism/JC%20running%20mechanism/index.html)
+- Here is the interactive [Mindmap] to illustrate the running mechanism: (https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_mechanism/JC%20running%20mechanism/index.html)
 ----------
 ### Toolkits
-- <img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/How_JC_run.png" width=95% height=95%>
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/How_JC_run.png" width=95% height=95%>
 
 ### Time table
-- <img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/JC_run_workflow.png" width=90% height=90%>
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/JC_run_workflow.png" width=90% height=90%>
 
 -------------
 ## Proposed Topics

@@ -12,10 +12,10 @@
 - [Mindmap](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_mechanism/JC%20running%20mechanism/index.html)
 ----------
 ### Toolkits
-- <img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/How_JC_run.png" width=50% height=50%>
+- <img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/How_JC_run.png" width=75% height=75%>
 
 ### Time table
-- <img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/JC_run_workflow.png" width=50% height=50%>
+- <img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/JC_run_workflow.png" width=90% height=90%>
 
 -------------
 ## Proposed Topics

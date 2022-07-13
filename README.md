@@ -16,6 +16,7 @@
 
 ### Time table
 <img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/JC_run_workflow.png" width=90% height=90%>
+- The final announcement should go after the decision. So everything are enclosed in one thread!
 
 -------------
 ## Proposed Topics

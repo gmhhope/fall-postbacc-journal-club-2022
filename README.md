@@ -1,12 +1,13 @@
-# Welcome to the Journal club (Fall 2022) 🥳
+# Welcome to the PBJ club (Fall 2022) 🥳
 - 10 meetings, starting September 22 and convening biweekly thereafter (with some adjustment for winter holidays)
 - Meetings are Thursdays 12:00-1:00
 - 7-10 participants
 
 -----------
 ## Guidelines
-- For some guidelines of how to use Github for this journal club, please visit our [Wiki](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki). 
-
+- For some guidelines of how to use Github for this journal club, please visit our [Github Wiki](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki). 
+- Discussion worksheet will hold in Github issue. See more details in [description of Github Issue & Discussion Worksheet](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki/Discussion-worksheet-(DW)%3F)
+- There will be extensive use of [Github discussion](https://github.com/gmhhope/fall-postbacc-journal-club-2022/discussions). More details are in [Github Wiki subpage describing Github Discussion](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki/Github-discussions)
 ------------------------
 ## How we run the Journal club
 - Here is the interactive [Mindmap](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_mechanism/JC%20running%20mechanism/index.html) to illustrate the running mechanism: 

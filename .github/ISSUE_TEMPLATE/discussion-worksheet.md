@@ -2,7 +2,7 @@
 name: Discussion Worksheet (DW)
 about: 'This worksheet is intended to guide preparations for your discussions in the
   Journal club. '
-title: 'DW-JC#-Name '
+title: 'DW-PBJ#-Name '
 labels: Discussion sheet
 assignees: gmhhope
 

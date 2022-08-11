@@ -6,7 +6,7 @@
 -----------
 ## Guidelines
 - For some guidelines of how to use Github for this journal club, please visit our [Github Wiki](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki). 
-- Discussion worksheet will hold in Github issue. See more details in [description of Github Issue & Discussion Worksheet](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki/Discussion-worksheet-(DW)-&-Github-Issue)
+- Discussion worksheet will be held in Github issue. See more details in [description of Github Issue & Discussion Worksheet](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki/Discussion-worksheet-(DW)-&-Github-Issue)
 - There will be extensive use of [Github discussion](https://github.com/gmhhope/fall-postbacc-journal-club-2022/discussions). More details are in [Github Wiki subpage describing Github Discussion](https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki/Github-discussions)
 ------------------------
 ## How we run the Journal club

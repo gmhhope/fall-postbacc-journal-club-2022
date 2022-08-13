@@ -8,22 +8,22 @@ assignees: gmhhope
 
 ---
 
-# Document for preview
+## Document for preview
 - https://github.com/gmhhope/fall-postbacc-journal-club-2022/tree/main/docs/JC1
 
-# Mindmap
+## Mindmap
 - [ ] Where is the mindmap?
 
-# Poll
+## Poll
 - [ ] Where is the poll?
 
 -------
 
-# Paper to be presented
+## Paper to be presented
 -  [ ] Review: 
 -  [ ] Articles:
 
-# Slides
+## Slides
 - [ ] Where is the slide?
 
 -------
@@ -35,7 +35,7 @@ assignees: gmhhope
 
 -------
 
-# Checklist
+## Checklist
 - [ ] Is the Document ready to preview?
 - [ ] Is the mindmap ready?
 - [ ] Does Poll open?

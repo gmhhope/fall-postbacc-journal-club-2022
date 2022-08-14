@@ -2,7 +2,7 @@
 Then we transition to T cell responses, which recently shows to be important to fight against Omicron, even though it escapes from antibody responses.
 
 ### Listening
-- Coronapod. Why T cells have been overlooked.
+- Coronapod. [Why T cells have been overlooked](https://www.nature.com/articles/d41586-022-00238-9).
 ### Readings
 - Chen, Z. & John Wherry, E. T cell responses in patients with COVID-19. Nat Rev Immunol 20, 529–536 (2020).
 - Flemming, A. Cross reactive T cells hold up against Omicron. Nature Reviews Immunology 22, 146–146 (2022).

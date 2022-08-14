@@ -4,7 +4,7 @@ With some curious examples of post-COVID-19 sequalae, we will take a broader sco
 ### Listening
 
 - Coronapod. [Counting the cost of long COVID.](https://www.nature.com/articles/d41586-021-01603-w)
-- Coronapod. Vaccines and long COVID, how protected are you?
+- Coronapod. [Vaccines and long COVID, how protected are you?](https://www.nature.com/articles/d41586-021-03732-8)
 
 ### Readings
 - A wave of long COVID is bringing attention to other mysterious chronic illnesses : Shots - Health News : NPR. https://www.npr.org/sections/health-shots/2022/02/28/1083458296/long-covid- autoimmune-meghan-orourke-invisible-kingdom.

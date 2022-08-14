@@ -1,4 +1,4 @@
-## Infected innate immune cells hint at cause of severe COVID
+## PBJ2: Infected innate immune cells hint at cause of severe COVID
 
 The most recent research indicates that SARS2-CoV2 infect lung-macrophages and elicit inflammasome activation that leads to aggressive proinflammatory responses. A perfect example of adversary effect of dysregulated immune responses.
 

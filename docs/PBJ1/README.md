@@ -1,4 +1,4 @@
-## JC1: The immune system and COVID-19: Friend or foe?
+## PBJ1: The immune system and COVID-19: Friend or foe?
 
 ### Readings
 
@@ -9,5 +9,5 @@
 
 ### Mindmap
 - [Potental topics](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_topics/Topics%20explain/index.html)
-- [Reflection sheet explained](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_1/Reflection-sheet-explained/index.html)
+- [Reflection sheet explained](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/PBJ1/Reflection-sheet-explained/index.html)
 

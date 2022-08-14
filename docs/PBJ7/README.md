@@ -2,7 +2,7 @@
 Another scary story is that COVID-19 infection may raise risks to develop type-II diabetes and cardiovascular disease. Is immunology involved?
 
 ### Listening
-- Coronapod. COVID and diabetes, what the science says.
+- Coronapod. [COVID and diabetes, what the science says](https://www.nature.com/articles/d41586-022-01220-1).
 
 ### Readings
 - Accili, D. Can COVID-19 cause diabetes? Nature metabolism 3, 123–125 (2021).

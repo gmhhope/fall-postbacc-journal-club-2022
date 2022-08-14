@@ -3,7 +3,7 @@ With some curious examples of post-COVID-19 sequalae, we will take a broader sco
 
 ### Listening
 
-- Coronapod. Counting the cost of long COVID.
+- Coronapod. [Counting the cost of long COVID.](https://www.nature.com/articles/d41586-021-01603-w)
 - Coronapod. Vaccines and long COVID, how protected are you?
 
 ### Readings

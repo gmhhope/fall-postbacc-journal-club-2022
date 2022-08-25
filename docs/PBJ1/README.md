@@ -1,4 +1,5 @@
 ## PBJ1: The immune system and COVID-19: Friend or foe?
+![PBJ1_topics_figure](https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/PBJ1_topics_figure.png)
 
 ### Readings
 

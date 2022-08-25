@@ -1,6 +1,10 @@
 ## PBJ3: Evolution of antibody immunity to SARS-CoV-2
 Then we switch to the good part of immunity – antibody responses by B cells. We will mainly discuss how B cell maturation facilitate spike-specific antibodies against SARS-CoV-2 and touch on the evolution of SAS-CoV-2 variants and how Omicron escapes antibody surveillance.
 
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/PBJ3-1.png" width=100% height=100%>
+
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/PBJ3-2.png" width=75% height=75%>
+
 ### Readings
 - [Fast-spreading COVID variant can elude immune responses](https://www.nature.com/articles/d41586-021-00121-z)
 - [Gruell, H. et al. Antibody-mediated neutralization of SARS-CoV-2. Immunity 55, 925–944 (2022)](https://www.sciencedirect.com/science/article/abs/pii/S1074761322002254)

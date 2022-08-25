@@ -29,8 +29,9 @@ Then we transition to T cell responses, which recently shows to be important to 
 5. mRNA vaccines, adjuvanticity and Systems vaccinology
 Up to now, we should have solid understanding of COVID-19-related immune response, and we will take a systematic view of how mRNA vaccine elicits protective innate and adaptive immune responses. And discuss how we can learn from the vaccine to design a better one in the future (we will also touch on mucosal vaccine development).
 
-<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/overview-3.png" width=75% height=75%>
+---------
 
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/overview-3.png" width=100% height=100%>
 
 6. COVID, smell loss and neurological manifestation?
 Reaching the second half, we switch to post-COVID-19 era focusing on the sequalae due to COVID- 19 infection. One of the idiosyncratic symptoms is the smell loss. Some very recent research indicates that it also alludes to brain pathology.

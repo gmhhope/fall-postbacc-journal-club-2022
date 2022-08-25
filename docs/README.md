@@ -1,6 +1,6 @@
 # Acute coronavirus disease and Long-COVID
 
-<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/overview-1.png" width=75% height=75%>
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/overview-1.png" width=75% height=75%>
 
 SARS-CoV-2 has been with us for more than two years and we are entering the post-COVID-19 era now. Reports have been accumulated to better understand the disease and we got the vaccines and some anti-viral drugs. However, we need to learn from the pandemics and prepare for the “known unknowns” – the new plagues destined to come. Furthermore, given the fact that millions of people were exposed to SARS-CoV-2 acute infection, the chronic post-COVID conditions (or Long COVID) are becoming ever more concerning and require immediate attentions. In this journal club, we will review the major milestones in the key COVID research areas and scrutinize the cutting-edge research papers.
 
@@ -14,7 +14,7 @@ In the first half of the journal club, we are going to learn about the innate an
 This sets the tone for the journal club and provoke students to discuss the “Yin-Yang” of the immune
 responses stimulated by SARS2-CoV2. I will take more initiatives to discuss this with emphasis on the innate immune parts (monocytes and neutrophils), which prelude for the next section.
 
-<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/overview-2.png" width=75% height=75%>
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/overview-2.png" width=75% height=75%>
 
 2. Infected innate immune cells hint at cause of severe COVID
 The most recent research indicates that SARS2-CoV2 infect lung-macrophages and elicit
@@ -31,7 +31,7 @@ Up to now, we should have solid understanding of COVID-19-related immune respons
 
 ---------
 
-<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/overview-3.png" width=100% height=100%>
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/overview-3.png" width=100% height=100%>
 
 6. COVID, smell loss and neurological manifestation?
 Reaching the second half, we switch to post-COVID-19 era focusing on the sequalae due to COVID- 19 infection. One of the idiosyncratic symptoms is the smell loss. Some very recent research indicates that it also alludes to brain pathology.

@@ -1,6 +1,8 @@
 ## PBJ6: COVID, smell loss and neurological manifestation?
 Reaching the second half, we switch to post-COVID-19 era focusing on the sequalae due to COVID- 19 infection. One of the idiosyncratic symptoms is the smell loss. Some very recent research indicates that it also alludes to brain pathology.
 
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/PBJ6.png" width=75% height=75%>
+
 
 ### Listening
 - Coronapod. [Coronapod: COVID and smell loss, what the science says.](https://www.nature.com/articles/d41586-022-01648-5)

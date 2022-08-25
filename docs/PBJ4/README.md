@@ -1,6 +1,8 @@
 ## PBJ4: Cross reactive T cells hold up against Omicron
 Then we transition to T cell responses, which recently shows to be important to fight against Omicron, even though it escapes from antibody responses.
 
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/PBJ4.png" width=75% height=75%>
+
 ### Listening
 - Coronapod. [Why T cells have been overlooked](https://www.nature.com/articles/d41586-022-00238-9).
 ### Readings

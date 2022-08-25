@@ -1,6 +1,9 @@
 ## PBJ5: mRNA vaccines, adjuvanticity and Systems vaccinology
 Up to now, we should have solid understanding of COVID-19-related immune response, and we will take a systematic view of how mRNA vaccine elicits protective innate and adaptive immune responses. And discuss how we can learn from the vaccine to design a better one in the future (we will also touch on mucosal vaccine development).
 
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/dev/images/PBJ5.png" width=75% height=75%>
+
+
 ### Readings
 - Arunachalam, P. S. et al. Adjuvanting a subunit COVID-19 vaccine to induce protective immunity. Nature 594, 253–258 (2021).
 Coronapod. The rise of RNA vaccines.

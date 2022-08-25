@@ -2,6 +2,8 @@
 
 The most recent research indicates that SARS2-CoV2 infect lung-macrophages and elicit inflammasome activation that leads to aggressive proinflammatory responses. A perfect example of adversary effect of dysregulated immune responses.
 
+<img src="https://github.com/gmhhope/fall-postbacc-journal-club-2022/blob/main/images/PBJ2_topics_figure.png" width=75% height=75%>
+
 ## Introductory mindmap 
 - Check it out: [**Innate cells - friends or foes**](https://gmhhope.github.io/fall-postbacc-journal-club-2022/mindmap/JC_2/innate%20cells%20-%20friend%20or%20foe/index.html)
 

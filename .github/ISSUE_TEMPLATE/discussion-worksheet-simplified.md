@@ -43,7 +43,7 @@ assignees: gmhhope
 
 
 ----------------------
-## confusion? Terms you don't understand?
+## Confusion? Terms you don't understand?
 
 
 

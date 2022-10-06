@@ -1,5 +1,5 @@
 ---
-name: PBJ Announcement
+name: PBJ-# Announcement
 about: This template is used for generate template Announcement, which will be transferred
   into Github Announcement
 title: 'PBJ-# Announcement '
@@ -9,10 +9,7 @@ assignees: gmhhope
 ---
 
 ## Document for preview
-- https://github.com/gmhhope/fall-postbacc-journal-club-2022/tree/main/docs/JC1
-
-## Mindmap
-- [ ] Where is the mindmap?
+- https://github.com/gmhhope/fall-postbacc-journal-club-2022/wiki/PBJ3
 
 ## Poll
 - [ ] Where is the poll?
@@ -37,7 +34,6 @@ assignees: gmhhope
 
 ## Checklist
 - [ ] Is the Document ready to preview?
-- [ ] Is the mindmap ready?
 - [ ] Does Poll open?
 - [ ] Do we have the paper decided yet?
 - [ ] Important discussion drafted?
